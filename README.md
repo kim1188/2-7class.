@@ -1,5 +1,5 @@
  # 2-7class
-아직 미완성
+완성(추가할 부분은 추가할)
 <html lang="ko">
     <head>
         <title>2학년 7반 시간표</title>
@@ -53,14 +53,14 @@
         }
         init();
         </script>
-        <div>미완성인 부분 있으니까</div>
-        <div>참고해서 수정할 부분 톡으로 전해줘</div>
+        <div>완성</div>
+        <div>수정할 부분 톡으로 전해줘</div>
         <hr>
         <script> AOS.init(); </script>
         <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
         <div data-aos="zoom-in">
           <div>　</div>
-          <<<시간표
+          시간표
           <table>
                   <tr>
                     <th></th>
@@ -74,10 +74,10 @@
                   <tr height="80">
                     <th>1</th>
                     <td><a href="https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1(박보라)</a></td><!--영어1(박보라 쌤) 줌 수업-->
-                    <td><a href="">문학(박신영)</a></td><!--문학(박신영 쌤) 줌 수업-->
+                    <td><a href="https://zoom.us/j/6117180017?pwd=QTJnNUF3SytDU0RVL1hrRCtqMzVGdz09">문학(박신영)</a></td><!--문학(박신영 쌤) 줌 수업-->
                     <td><a href="https://zoom.us/j/6620251058?pwd=c21Kb2tBdEkyS1JjNnZLWkIvLzBrZz09">기하(신지현)</a></td><!--기하(신지현 쌤) 줌 수업-->
                     <td><a href="https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1(오혜미)</a></td><!--수학1(오혜미 쌤) 줌 수업-->
-                    <td><a href="">수학1(박시영)</a></td><!--수학1(박시영 쌤) 줌 수업-->
+                    <td><a href="https://us02web.zoom.us/j/2971534279?pwd=LzNUdEFSdGpRRnVwQXRYdVBRdWdKZz09">수학1(박시영)</a></td><!--수학1(박시영 쌤) 줌 수업-->
                   </tr>
                   <tr height="80">
                     <th>2</th>
@@ -93,7 +93,7 @@
                     <td><a href="https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1(오혜미)</a></td><!--수학1(오혜미 쌤) 줌 수업-->
                     <td><a href="https://us02web.zoom.us/j/3309633175?pwd=ajh5STV4NlNHemNDTjhWbms2SXFqdz09">문학(장준영)</a></td><!--문학(장준영 쌤) 줌 수업--> 
                     <td><a href="https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">지학1(이승영)</a></td><!--지학1(이승영 쌤) 줌 수업--> 
-                    <td><a href="">화학1(김양현)</a></td><!--화학1(김양현 쌤) 줌 수업-->
+                    <td><a href="https://us04web.zoom.us/j/7011986737?pwd=ZWxBRnM3ZTU1SWgwdVE5QWl5cG5QZz09">화학1(김양현)</a></td><!--화학1(김양현 쌤) 줌 수업-->
                   </tr>
                   <tr height="80">
                     <th>4</th>
@@ -105,7 +105,7 @@
                   </tr>
                   <tr height="80">
                     <th>5</th>
-                    <td><a href="">미술(이지수)</a></td><!--미술창작(이지수 쌤 줌 수업--> 
+                    <td><a href="https://us02web.zoom.us/j/2770224072?pwd=czVuNjB2bHRhWDU2VWhycWZKM0xyUT09">미술(이지수)</a></td><!--미술창작(이지수) 쌤 줌 수업--> 
                     <td><a href="https://us02web.zoom.us/j/2669056200?pwd=Q3JOQUprR2c0bzRzVkptdmdXTGs4QT09">영어1(조영곤)</a></td><!--영어1(조영곤 쌤) 줌 수업--> 
                     <td><a href="https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1(오혜미)</a></td><!--수학1(오혜미 쌤) 줌 수업--> 
                     <td><a href="https://us02web.zoom.us/j/2669056200?pwd=Q3JOQUprR2c0bzRzVkptdmdXTGs4QT09">영어1(조영곤)</a></td><!--영어1(조영곤 쌤) 줌 수업--> 
@@ -121,7 +121,7 @@
                   </tr>
                   <tr height="80">
                     <th>7</th>
-                    <td><a href="">진로(강금희)</a></td><!--진로(강금희 쌤) 줌 수업--> 
+                    <td><a href="https://us02web.zoom.us/j/5303705413?pwd=NnNwUGJOMWhPYXpCbEVEWDJZbUVmUT09">진로(강금희)</a></td><!--진로(강금희 쌤) 줌 수업--> 
                     <td><a href="https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">교양(이승영)</a></td><!--과학교양(이승영 쌤) 줌 수업-->
                     <td><a href="https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">지학1(이승영)</a></td><!--지학1(이승영 쌤) 줌 수업--> 
                     <td><a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생물1</a></td><!--생물1 줌 수업-->
