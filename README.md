@@ -1,5 +1,5 @@
  # 2-7class
-완성(추가할 부분은 추가할)
+완성(추가할 부분은 추가할게)
 <html lang="ko">
     <head>
         <title>2학년 7반 시간표</title>
